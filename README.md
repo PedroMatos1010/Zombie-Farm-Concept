@@ -28,14 +28,18 @@ The goal is to farm resources during the day and defend the base at night.
 ## ⚙️ Core Systems (Translated)
 Here are the main mechanics detailed in the planning board:
 
+### 🔄 The Day/Night Loop
+* **Day:** Player plants seeds, waters crops, and repairs fences. (Safe Phase)
+* **Night:** Zombies attack from procedural spawn points. (Combat Phase)
 
-* **The Day/Night Loop:**
-    * **Day:** Player plants seeds, waters crops, and repairs fences. (Safe Phase)
-    * **Night:** Zombies attack from procedural spawn points. (Combat Phase)
+### 📈 Progression & Economy
 * **Economy:** Selling crops grants gold to buy turrets and better seeds.
 * **Progression:** Unlocking new tools and defensive structures.
 
+### 🚧 Current Progress
+* **In Progress:**
+    * Player movement logic (Top-down controller).
 
 ## 🛠️ Tools Used
-* **Trello:** For task management and feature breakdown.
+* **Trello:** For task management, brainstorming and feature breakdown.
 * **Godot Engine:** Chosen for the prototype implementation.
