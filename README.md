@@ -21,9 +21,6 @@ The goal is to farm resources during the day and defend the base at night.
 <img width="398" height="624" alt="image" src="https://github.com/user-attachments/assets/8d4a3ff0-d4d7-4bc4-9fb0-da740f08c51d" />
 <img width="413" height="613" alt="image" src="https://github.com/user-attachments/assets/ff9c3f4d-3d36-434c-b571-ace4f7011094" />
 
-#### In Progress
--player's moviment
-
 
 ## ⚙️ Core Systems (Translated)
 Here are the main mechanics detailed in the planning board:
@@ -38,7 +35,7 @@ Here are the main mechanics detailed in the planning board:
 
 ### 🚧 Current Progress
 * **In Progress:**
-    * Player movement logic (Top-down controller).
+    * Player movement logic.
 
 ## 🛠️ Tools Used
 * **Trello:** For task management, brainstorming and feature breakdown.
